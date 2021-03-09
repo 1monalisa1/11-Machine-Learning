@@ -61,4 +61,5 @@
 * "total_rec_pmcp"
 * "total_pymnt"
 * "total_pymnt_inv"
+
 ![BRFC-Chart](https://github.com/1monalisa1/11-Machine-Learning/blob/8d7da45a818299c6896b30e19f8dcf5e3ecf5b17/Resources/11-BRFC.jpeg)
