@@ -42,13 +42,23 @@
 #### Balanced Random Forest Classifier
 ![BRFC-Report](https://github.com/1monalisa1/11-Machine-Learning/blob/23e4a1d279d9acf753e27b1fbc8b040f12e053ec/Resources/11-Report_BRFC.jpeg)
 
-#### Ensemble
+#### Ensemble Learning
 ![Ensemble-Report](https://github.com/1monalisa1/11-Machine-Learning/blob/23e4a1d279d9acf753e27b1fbc8b040f12e053ec/Resources/11-Report_Ensemble.jpeg)
 
 ##### *Which model had the best balanced accuracy score?*
+* Balanced Random Forest Classifier: 74.62%
+* Ensemble Learning: 91.16%
 
 ##### *Which model had the best recall score?*
+* Balanced Random Forest Classifier: 87%
+* Ensemble Learning: 94%
 
 ##### *Which model had the best geometric mean score?*
+* Balanced Random Forest Classifier: 74%
+* Ensemble Learning: 91%
 
-##### *What are the top three features?*
+##### *What are the top 3 features?*
+* "total_rec_pmcp"
+* "total_pymnt"
+* "total_pymnt_inv"
+![BRFC-Chart](https://github.com/1monalisa1/11-Machine-Learning/blob/8d7da45a818299c6896b30e19f8dcf5e3ecf5b17/Resources/11-BRFC.jpeg)
