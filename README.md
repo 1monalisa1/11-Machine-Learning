@@ -20,10 +20,22 @@
 ![Combination-Report](https://github.com/1monalisa1/11-Machine-Learning/blob/23e4a1d279d9acf753e27b1fbc8b040f12e053ec/Resources/11-Report_Combination.jpeg)
 
 ##### *Which model had the best balanced accuracy score?*
+* Naive Oversampling: 64.52%
+* SMOTE Oversampling: 65.97%
+* Undersampling: 65.97%
+* Combination: 55.24%
 
 ##### *Which model had the best recall score?*
+* Naive Oversampling: 66%
+* SMOTE Oversampling: 65%
+* Undersampling: 41%
+* Combination: 56%
 
 ##### *Which model had the best geometric mean score?*
+* Naive Oversampling: 65%
+* SMOTE Oversampling: 66%
+* Undersampling: 51%
+* Combination: 61%
 
 -----------------------------------------------------
 ### Ensemble Learning
