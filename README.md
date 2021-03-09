@@ -7,16 +7,16 @@
 
 
 ### Resampling
-##### Naive Oversampling
+#### Naive Oversampling
 ![Oversampling-Report](https://github.com/1monalisa1/11-Machine-Learning/blob/23e4a1d279d9acf753e27b1fbc8b040f12e053ec/Resources/11-Report-Oversamplng.jpeg)
 
-##### SMOTE Oversampling
+#### SMOTE Oversampling
 ![SMOTE-Report](https://github.com/1monalisa1/11-Machine-Learning/blob/23e4a1d279d9acf753e27b1fbc8b040f12e053ec/Resources/11-Report_SMOTE-Oversampling.jpeg)
 
-##### Undersampling
+#### Undersampling
 ![Undersampling-Report](https://github.com/1monalisa1/11-Machine-Learning/blob/23e4a1d279d9acf753e27b1fbc8b040f12e053ec/Resources/11-Report_Undersampling.jpeg)
 
-##### Combination (Over & Under Sampling)
+#### Combination (Over & Under Sampling)
 ![Combination-Report](https://github.com/1monalisa1/11-Machine-Learning/blob/23e4a1d279d9acf753e27b1fbc8b040f12e053ec/Resources/11-Report_Combination.jpeg)
 
 ##### *Which model had the best balanced accuracy score?*
@@ -27,10 +27,10 @@
 
 
 ### Ensemble Learning
-##### Balanced Random Forest Classifier
+#### Balanced Random Forest Classifier
 ![BRFC-Report](https://github.com/1monalisa1/11-Machine-Learning/blob/23e4a1d279d9acf753e27b1fbc8b040f12e053ec/Resources/11-Report_BRFC.jpeg)
 
-##### Ensemble
+#### Ensemble
 ![Ensemble-Report](https://github.com/1monalisa1/11-Machine-Learning/blob/23e4a1d279d9acf753e27b1fbc8b040f12e053ec/Resources/11-Report_Ensemble.jpeg)
 
 ##### *Which model had the best balanced accuracy score?*
