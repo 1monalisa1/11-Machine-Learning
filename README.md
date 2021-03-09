@@ -7,6 +7,8 @@
 
 
 ### Resampling
+Naive Oversampling
+![Oversampling-Report](https://github.com/1monalisa1/11-Machine-Learning/blob/03f0d9d1ec40e49b6c36bbb1c74f4bf53964ae63/Resources/11-Report-Oversamplng.jpg)
 
 ##### *Which model had the best balanced accuracy score?*
 
