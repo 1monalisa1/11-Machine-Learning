@@ -25,7 +25,7 @@
 
 ##### *Which model had the best geometric mean score?*
 
-
+-----------------------------------------------------
 ### Ensemble Learning
 #### Balanced Random Forest Classifier
 ![BRFC-Report](https://github.com/1monalisa1/11-Machine-Learning/blob/23e4a1d279d9acf753e27b1fbc8b040f12e053ec/Resources/11-Report_BRFC.jpeg)
